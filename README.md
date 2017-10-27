@@ -32,7 +32,7 @@ Install [Flask](http://flask.pocoo.org/) framework for Python using pip.
 $ pip install Flask
 ```
 
-Rename settings_template.py file to settings.py and update the variables with your Bot token, Bot id, webhook name, webhook id. If you choose to run ngrok on a different machine, you should update the ngrok_url variable.
+Rename *settings_template.py* file to settings.py and update the variables with your Bot token, Bot id, webhook name, webhook id. If you choose to run ngrok on a different machine, you should update the ngrok_url variable.
 
 Launch the Python application.
 
