@@ -3,7 +3,7 @@
 # Create a Spark Bot,
 # see https://developer.ciscospark.com/bots.html
 bot_token = "your Bot token"
-bot_id = "your_bot_name@sparkbot.io"
+bot_id = "your_bot_id"
 
 # Use your bot token to create the webhook on Spark,
 # see https://developer.ciscospark.com/webhooks-explained.html
