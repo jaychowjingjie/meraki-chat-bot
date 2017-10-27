@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Download and extract [ngrok](http://ngrok.com/download. Then launch it.
+Download and extract [ngrok](http://ngrok.com/download). Then launch it.
 
 ```
 $ ./ngrok http 8080
