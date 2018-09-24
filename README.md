@@ -34,10 +34,9 @@ $ pip install Flask
 
 Rename `settings_template.py` file to `settings.py` and update the variables - `bot_token`, `bot_id`, `webhook_name`, `webhook_id`. If you choose to run ngrok on a different machine, you should update the `ngrok_url` variable.
 
-Launch the Python application.
-
+Launch the Python application. Remember to run ngrok on 8080 first, then launch the bot. Then interact with the bot on webex teams.
 ```
-$ python app.py
+$ python3 app.py
 ```
 
 On Spark, create a 1-1 room with the Spark Bot, and start posting messages in that room. You will notice the posted messages being printed by your application on the terminal.
